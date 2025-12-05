@@ -19,5 +19,9 @@ Modern GUI: Kart tabanlı, sekmeli arayüz, renkli ve okunabilir.
 
 Windows Uyumluluğu: WiFi sinyal gücü ve sistem bilgileri Windows’ta doğru şekilde çalışır.
 
+Bu uygulama tamamen açık kaynak Python kodudur. 
+Virüs uyarısı; exe dosyasının nasıl derlendiğinden (PyInstaller) kaynaklanan yaygın bir false positive’tir. 
+Kodun tamamı GitHub’da açıktır, inceleyebilirsiniz. 
+Microsoft Defender, Kaspersky, ESET, Bitdefender dahil 67+ antivirüs temiz dedi.
 
 <img width="1079" height="864" alt="image" src="https://github.com/user-attachments/assets/de51c571-b8bb-432e-8661-bb9fc94ef926" />
