@@ -1,4 +1,5 @@
-System Control Center – AurySoftWare©
+# **Sistem Kontrol Merkezi – AurySoftWare©**
+
 
 System Control Center, Windows üzerinde sistem bilgilerini, CPU/RAM kullanımını, disk durumunu, ağ ve WiFi bilgilerini anlık olarak takip edebileceğiniz modern bir Python GUI uygulamasıdır. Ayrıca ping testi ve speedtest özellikleri ile internet bağlantınızı da kontrol edebilirsiniz.
 
