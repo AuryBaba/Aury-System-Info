@@ -18,3 +18,6 @@ Speedtest: İnternet hız testi (CLI üzerinden çalışır, 403 hatası yok).
 Modern GUI: Kart tabanlı, sekmeli arayüz, renkli ve okunabilir.
 
 Windows Uyumluluğu: WiFi sinyal gücü ve sistem bilgileri Windows’ta doğru şekilde çalışır.
+
+
+<img width="1079" height="864" alt="image" src="https://github.com/user-attachments/assets/de51c571-b8bb-432e-8661-bb9fc94ef926" />
